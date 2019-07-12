@@ -148,7 +148,7 @@ Function.prototype.myBind = function(context) {
 
 class Lamp {
   constructor() {
-    this.name = "a lamp";
+    this.name = "a lamp"; 
   }
 }
 
